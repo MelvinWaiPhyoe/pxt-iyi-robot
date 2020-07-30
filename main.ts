@@ -2,7 +2,7 @@
  *iyi robot အတွက် MakeCode Extension ဖြစ်ပါသည်။
  */
 
-//% weight=10 color="#FF6600" icon="\u2606" block="အိုင်ဝိုင်အိုင် စက်ရုပ်" advanced=false
+//% weight=10 color="#FF6600" icon="\u2606" block="iyi robot" advanced=false
 //% groups="['Motors', 'Acturators', 'Sensors', 'Displays']"
 namespace motor {
     const PCA9685_ADDRESS = 0x40
